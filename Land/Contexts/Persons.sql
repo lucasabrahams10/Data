@@ -1,0 +1,28 @@
+INSERT INTO Persons
+    (FirstName, LastName, PhoneNumber, Email)
+VALUES
+    ('Alice', 'Andersson', '073-123 45 67', 'Alice@domain.com'),
+    ('Bob', 'Berg', '073-234 56 78', 'Bob@domain.com'),
+    ('Carl', 'Carlsson', '073-345 67 89', 'Carl@domain.com'),
+    ('David', 'Dahl', '073-456 78 90', 'David@domain.com'),
+    ('Emma', 'Eriksson', '073-567 89 01', 'Emma@domain.com'),
+    ('Fredrik', 'Fredriksson', '073-678 90 12', 'Fredrik@domain.com'),
+    ('Greta', 'Gustafsson', '073-789 01 23', 'Greta@domain.com'),
+    ('Hans', 'Hansson', '073-890 12 34', 'Hans@domain.com'),
+    ('Ida', 'Isaksson', '073-901 23 45', 'Ida@domain.com'),
+    ('Jan', 'Johansson', '073-012 34 56', 'Jan@domain.com'),
+    ('Karl', 'Karlsson', '073-123 45 67', 'Karl@domain.com'),
+    ('Lisa', 'Lind', '073-234 56 78', 'Lisa@domain.com'),
+    ('Mikael', 'Månsson', '073-345 67 89', 'Mikael@domain.com'),
+    ('Nils', 'Nilsson', '073-456 78 90', 'Nils@domain.com'),
+    ('Oscar', 'Olsson', '073-567 89 01', 'Oscar@domain.com'),
+    ('Pia', 'Persson', '073-678 90 12', 'Pia@domain.com'),
+    ('Qvintus', 'Qvist', '073-789 01 23', 'Qvintus@domain.com'),
+    ('Rolf', 'Rosenqvist', '073-890 12 34', 'Rolf@domain.com'),
+    ('Sara', 'Svensson', '073-901 23 45', 'Sara@domain.com'),
+    ('Tomas', 'Tommasson', '073-012 34 56', 'Tomas@domain.com'),
+    ('Ulrika', 'Ulfsson', '073-123 45 67', 'Ulrika@domain.com'),
+    ('Viktor', 'Viktorsson', '073-234 56 78', 'Viktor@domain.com'),
+    ('Wilma', 'Wallin', '073-345 67 89', 'Wilma@domain.com'),
+    ('Xavier', 'Xenon', '073-456 78 90', 'Xavier@domain.com'),
+    ('Ylva', 'Yngvesson', '073-567 89 01', 'Ylva@domain.com')
